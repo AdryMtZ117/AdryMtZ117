@@ -1,4 +1,5 @@
-# Hello there, I'm Andrei Martínez Bahena 👋
+# Hello there!
+I'm Andrei Martínez Bahena
 
 Computer Systems Engineering undergraduate student specialized in **Embedded Systems**, **Real-Time Industrial Control (CAM/HMI)**, and **Full-Stack IoT Architectures**. 
 
